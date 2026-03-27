@@ -8,8 +8,6 @@ _  _, _// /_/ /__ |/ //  __/     / /_/ / /  __/  / / /  __/  /   / /_/ // /_ _  
 
 ### Emulations & Inspirations
 
-We build audio plugins that bring legendary studio hardware into the digital domain.
-
 ---
 
 #### Super Reverb
