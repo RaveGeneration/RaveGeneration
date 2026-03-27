@@ -8,46 +8,88 @@ _  _, _// /_/ /__ |/ //  __/     / /_/ / /  __/  / / /  __/  /   / /_/ // /_ _  
 
 ### Emulations & Inspirations
 
-We build audio plugins that bring legendary studio hardware into the digital domain. Here's what we emulate:
+We build audio plugins that bring legendary studio hardware into the digital domain.
 
 ---
 
-**Super Reverb** · BOSS RRV-10 Micro Rack (HG61H20R36F Chip Emulator)
+#### Super Reverb
+BOSS RRV-10 Micro Rack (HG61H20R36F Chip Emulator)
 
-**StarGate** · Ursa Major 323 & 626 (EPROM Network Emulator)
+#### StarGate
+Ursa Major 323 & 626 (EPROM Network Emulator)
 
-**MidiVerb** · Alesis Midiverb I, II & Midifex (DASP-16 Chip Emulator)
+#### MidiVerb
+Alesis Midiverb I, II & Midifex (DASP-16 Chip Emulator)
 
-**Super Chorus** · BOSS RCE-10 Micro Rack · BOSS CE-300 · Roland JP-8000 · Roland Alpha Juno 2
+#### Super Chorus
+BOSS RCE-10 Micro Rack (MB654119 Gate Array Emulator)  
+BOSS CE-300 Rack  
+Roland JP-8000 (Super Chorus & Supersaw)  
+Roland Alpha Juno 2 (Chorus)
 
-**Dream Reverb** · Lexicon 480L, PCM-60, M5000 · TC Electronic System 6000 · Eventide DSP4000 · AMS RMX16
+#### Dream Reverb
+Lexicon 480L, PCM-60, M5000  
+TC Electronic System 6000  
+Eventide DSP4000  
+AMS RMX16
 
-**BDX-909** · Roland TR-909 Bassdrum
+#### BDX-909
+Roland TR-909 Bassdrum
 
-**VA-1000** · Access Virus TI2 · Clavia Nordlead 3 · Roland JP-8000 · Roland Alpha Juno 2 · Roland Juno-106 · Roland SH-101 · Roland Jupiter 8 · Roland TB-303 · Moog Ladder Filter
+#### VA-1000
+Access Virus TI2 (Hypersaw)  
+Clavia Nordlead 3 (LFO Shapes)  
+Roland JP-8000 (Supersaw & Chorus)  
+Roland Alpha Juno 2 (Oscillators, Chorus, Bass Boost)  
+Roland Juno-106  
+Roland SH-101 (Sub Oscillators, Arpeggiator)  
+Roland Jupiter 8 (Filter and HPF)  
+Roland TB-303 (Filter)  
+Moog Ladder Filter
 
-**Filterbank** · Sherman Filterbank 2
+#### Filterbank
+Sherman Filterbank 2
 
-**S1988** · AKAI S1000 (Granular Timestretching, Sample Rate, Bit Depth)
+#### S1988
+AKAI S1000 (Granular Timestretching, Sample Rate, Bit Depth)
 
-**Sonic Surge 2** · Tube-Tech SMC2B · Tube-Tech CL1B · LA-2A · Sonnox Oxford Inflator
+#### Sonic Surge 2
+Tube-Tech SMC2B  
+Tube-Tech CL1B  
+LA-2A  
+Sonnox Oxford Inflator (Waveshaping)
 
-**Sonic Sweep 2** · Mackie 8-Bus Mixing Console
+#### Sonic Sweep 2
+Mackie 8-Bus Mixing Console
 
-**Sonic Dynamics** · Alesis 3630 Compressor (THAT VCA)
+#### Sonic Dynamics
+Alesis 3630 Compressor (THAT VCA)
 
-**OTTX** · Xfer OTT · Sonnox Oxford Inflator
+#### OTTX
+Xfer OTT (Multiband Compressor)  
+Sonnox Oxford Inflator (Waveshaping)
 
-**Aural Enhancer** · Aphex Aural Exciter & Optical Big Bottom 204 · Aphex Aural Exciter Type III 250
+#### Aural Enhancer
+Aphex Aural Exciter & Optical Big Bottom Model 204  
+Aphex Aural Exciter Type III Model 250
 
-**TubEQ** · Pultec EQP‑1A · MAAG EQ4M
+#### TubEQ
+Pultec EQP‑1A  
+MAAG EQ4M
 
-**HarmonEQ** · Cranborne Audio Carnaby HE2
+#### HarmonEQ
+Cranborne Audio Carnaby HE2
 
-**PE-40** · Tascam PE-40 Parametric Equalizer
+#### PE-40
+Tascam PE-40 Parametric Equalizer
 
-**Knock** · Roland TR-909 · Mackie 8-Bus · BOSS RRV-10
+#### Knock
+Roland TR-909 Bassdrum  
+Mackie 8-Bus Mixing Console  
+BOSS RRV-10 Micro Rack (HG61H20R36F Chip Emulator)
 
-**Time Modulator** · Marshall Time Modulator Model 5002
+#### Time Modulator
+Marshall Time Modulator Model 5002
 
-**Trigger Rhythm** · SY-1 Syncussion
+#### Trigger Rhythm
+SY-1 Syncussion
