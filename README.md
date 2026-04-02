@@ -19,6 +19,9 @@ Ursa Major 323 & 626 (EPROM Network Emulator)
 **MidiVerb:**  
 Alesis Midiverb I, II & Midifex (DASP-16 Chip Emulator)
 
+**PMC60:**  
+Lexicon PMC60 (CMU Microcode Emulator)
+
 **Super Chorus:**  
 BOSS RCE-10 Micro Rack (MB654119 Gate Array Emulator)  
 BOSS CE-300 Rack  
