@@ -63,7 +63,7 @@ Clavia Nordlead 3 (LFO Shapes)
 Roland JP-8000 (Supersaw & Chorus)  
 Roland Alpha Juno 2 (Oscillators, Chorus, Bass Boost)  
 Roland Juno-106  
-Roland SH-101 (Sub oscillators, Arpeggiator)  
+Roland SH-101 (Sub Oscillators, Arpeggiator)  
 Roland Jupiter 8 (Filter and HPF)  
 Roland TB-303 (Filter)  
 Moog Ladder Filter
