@@ -84,7 +84,7 @@ Mackie 8-Bus Mixing Console
 BOSS RRV-10 Micro Rack (HG61H20R36F Chip Emulator)
 
 **Dream Reverb:**  
-Lexicon 480L, PCM-60, M5000  
+Lexicon 480L 
 TC Electronic System 6000  
 Eventide DSP4000  
 AMS RMX16
