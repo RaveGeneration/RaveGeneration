@@ -10,6 +10,9 @@ _  _, _// /_/ /__ |/ //  __/     / /_/ / /  __/  / / /  __/  /   / /_/ // /_ _  
 
 ---
 
+**PMC60:**  
+Lexicon PCM60 (CMU Microcode Emulator)
+
 **Super Reverb:**  
 BOSS RRV-10 Micro Rack (HG61H20R36F Chip Emulator)
 
@@ -18,9 +21,6 @@ Ursa Major 323 & 626 (EPROM Network Emulator)
 
 **MidiVerb:**  
 Alesis Midiverb I, II & Midifex (DASP-16 Chip Emulator)
-
-**PMC60:**  
-Lexicon PCM60 (CMU Microcode Emulator)
 
 **Super Chorus:**  
 BOSS RCE-10 Micro Rack (MB654119 Gate Array Emulator)  
