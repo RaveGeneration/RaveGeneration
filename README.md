@@ -31,7 +31,7 @@ BOSS CE-300 Rack
 Roland JP-8000 (Super Chorus & Supersaw)  
 Roland Alpha Juno 2 (Chorus)
 
-**Aural Enhancer:**  
+**Excitance:**  
 Aphex Aural Exciter & Optical Big Bottom Model 204  
 Aphex Aural Exciter Type III Model 250
 
