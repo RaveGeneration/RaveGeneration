@@ -6,6 +6,24 @@ _  _, _// /_/ /__ |/ //  __/     / /_/ / /  __/  / / /  __/  /   / /_/ // /_ _  
 /_/ |_| \__,_/ _____/ \___/      \____/  \___//_/ /_/\___//_/    \__,_/ \__/ /_/  \____//_/ /_/
 ```
 
+### About
+
+---
+
+Hello 👋
+I'm **Mathijs Maas**, also known as **Re-Style**. Producer, DJ and plugin developer from Domburg, The Netherlands, based in Soest.
+* Started making music in **1996**, first with a keyboard, cassette deck and turntable, later got my first synth, a **Roland Alpha Juno 2**, as a gift from family
+* Early software days with **Magix Music Maker**, then discovered a CD full of **Amiga MOD files** at a market in Germany, which pulled me into the tracker scene
+* From **1998** onwards, producing in **Fast Tracker 2** and later **MadTracker**, and running a release group called **Dutch Profile Records (DPR)** where we put out electronic music and shared the modules. Still archived online
+* Performing as **Re-Style** for over two decades
+* Writing code since **1999**, starting with HTML and batch, later PHP, C++, Python and Solidity
+* Founder of **Rave Generation**, my plugin vendor for tools built by producers, for producers
+* Full catalog at **[ravegeneration.io](https://ravegeneration.io)**
+* Also running **[shop.re-style.nl](https://shop.re-style.nl)**, my direct store with sound packs, merch, and plugin downloads
+* Interested in: plugin development for electronic music production, raw sound design (distortion, synths, drums, effects), **chip-level emulation and reverse engineering** of vintage hardware, including in-house emulations of the **Yamaha LDSP (SPX90II)** and **Lexicon CMU Microcode (PCM60)**
+* 📫 Reach us at **support@ravegeneration.io**
+* 🎥 Creator Program: free plugin licenses for producers making video content. Details on **[ravegeneration.io](https://ravegeneration.io)**
+
 ### Emulations & Inspirations
 
 ---
