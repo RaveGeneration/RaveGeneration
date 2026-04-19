@@ -16,6 +16,9 @@ Lexicon PCM60 (CMU Microcode Emulator)
 **Symphonic:**  
 Yamaha SPX90II (LDSP Chip Emulator)
 
+**Lately:**  
+Yamaha DX11 (OPZ Chip Emulator)
+
 **Super Reverb:**  
 BOSS RRV-10 Micro Rack (HG61H20R36F Chip Emulator)
 
