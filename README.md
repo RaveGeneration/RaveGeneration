@@ -8,6 +8,18 @@ _  _, _// /_/ /__ |/ //  __/     / /_/ / /  __/  / / /  __/  /   / /_/ // /_ _  
 ---
 ### 🎛️ About
 Hello 👋
+
+
+
+
+
+
+
+
+
+
+
+
 I'm **Mathijs Maas**, also known as **Re-Style**. Producer, DJ and plugin developer from Domburg, The Netherlands, based in Soest.
 * Started making music in **1996**, first with a keyboard, cassette deck and turntable, later got my first synth, a **Roland Alpha Juno 2**, as a gift from family
 * Early software days with **Magix Music Maker**, then discovered a CD full of **Amiga MOD files** at a market in Germany, which pulled me into the tracker scene
