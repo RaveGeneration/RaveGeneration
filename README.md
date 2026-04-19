@@ -7,7 +7,6 @@ _  _, _// /_/ /__ |/ //  __/     / /_/ / /  __/  / / /  __/  /   / /_/ // /_ _  
 ```
 ---
 ### About
----
 Hello 👋
 I'm **Mathijs Maas**, also known as **Re-Style**. Producer, DJ and plugin developer from Domburg, The Netherlands, based in Soest.
 * Started making music in **1996**, first with a keyboard, cassette deck and turntable, later got my first synth, a **Roland Alpha Juno 2**, as a gift from family
@@ -23,7 +22,6 @@ I'm **Mathijs Maas**, also known as **Re-Style**. Producer, DJ and plugin develo
 * 🎥 Creator Program: free plugin licenses for producers making video content. Details on **[ravegeneration.io](https://ravegeneration.io)**
 ---
 ### Emulations & Inspirations
----
 **PMC60:**  
 Lexicon PCM60 (CMU Microcode Emulator)
 
