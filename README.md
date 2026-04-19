@@ -7,7 +7,6 @@ _  _, _// /_/ /__ |/ //  __/     / /_/ / /  __/  / / /  __/  /   / /_/ // /_ _  
 ```
 
 ### About
----
 
 Hello 👋
 I'm **Mathijs Maas**, also known as **Re-Style**. Producer, DJ and plugin developer from Domburg, The Netherlands, based in Soest.
@@ -22,11 +21,8 @@ I'm **Mathijs Maas**, also known as **Re-Style**. Producer, DJ and plugin develo
 * Interested in: plugin development for electronic music production, raw sound design (distortion, synths, drums, effects), **chip-level emulation and reverse engineering** of vintage hardware, including in-house emulations of the **Yamaha LDSP (SPX90II)** and **Lexicon CMU Microcode (PCM60)**
 * 📫 Reach us at **support@ravegeneration.io**
 * 🎥 Creator Program: free plugin licenses for producers making video content. Details on **[ravegeneration.io](https://ravegeneration.io)**
-
-
-
-### Emulations & Inspirations
 ---
+### Emulations & Inspirations
 
 **PMC60:**  
 Lexicon PCM60 (CMU Microcode Emulator)
