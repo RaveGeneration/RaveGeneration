@@ -23,60 +23,60 @@ I'm **Mathijs Maas**, also known as **Re-Style**. Producer, DJ and plugin develo
 * 🎥 Creator Program: free plugin licenses for producers making video content. Details on **[ravegeneration.io](https://ravegeneration.io)**
 ---
 ### 🧬 Emulations & Inspirations
-**[PMC60](https://github.com/RaveGeneration/PMC60):**  
+**[PMC60](https://github.com/RaveGeneration/PMC60)**  
 Lexicon PCM60 (CMU Microcode Emulator)
 
-**[Symphonic](https://github.com/RaveGeneration/Symphonic):**  
+**[Symphonic](https://github.com/RaveGeneration/Symphonic)**  
 Yamaha SPX90II (LDSP Chip Emulator)
 
-**[Lately](https://github.com/RaveGeneration/Lately):**  
+**[Lately](https://github.com/RaveGeneration/Lately)**  
 Yamaha DX11 (OPZ Chip Emulator)
 
-**[Super Reverb](https://github.com/RaveGeneration/Super-Reverb):**  
+**[Super Reverb](https://github.com/RaveGeneration/Super-Reverb)**  
 BOSS RRV-10 Micro Rack (HG61H20R36F Chip Emulator)
 
-**[StarGate](https://github.com/RaveGeneration/StarGate):**  
+**[StarGate](https://github.com/RaveGeneration/StarGate)**  
 Ursa Major 323 & 626 (EPROM Network Emulator)
 
-**[MidiVerb](https://github.com/RaveGeneration/MidiVerb):**  
+**[MidiVerb](https://github.com/RaveGeneration/MidiVerb)**  
 Alesis Midiverb I, II & Midifex (DASP-16 Chip Emulator)
 
-**[Super Chorus](https://github.com/RaveGeneration/Super-Chorus):**  
+**[Super Chorus](https://github.com/RaveGeneration/Super-Chorus)**  
 BOSS RCE-10 Micro Rack (MB654119 Gate Array Emulator)  
 BOSS CE-300 Rack  
 Roland JP-8000 (Super Chorus & Supersaw)  
 Roland Alpha Juno 2 (Chorus)
 
-**[Excitance](https://github.com/RaveGeneration/Excitance):**  
+**[Excitance](https://github.com/RaveGeneration/Excitance)**  
 Aphex Aural Exciter & Optical Big Bottom Model 204  
 Aphex Aural Exciter Type III Model 250
 
-**[TubEQ](https://github.com/RaveGeneration/TubEQ):**  
+**[TubEQ](https://github.com/RaveGeneration/TubEQ)**  
 Pultec EQP-1A  
 MAAG EQ4M
 
-**[HarmonEQ](https://github.com/RaveGeneration/HarmonEQ):**  
+**[HarmonEQ](https://github.com/RaveGeneration/HarmonEQ)**  
 Cranborne Audio Carnaby HE2
 
-**[Sonic Surge 2](https://github.com/RaveGeneration/Sonic-Surge-2):**  
+**[Sonic Surge 2](https://github.com/RaveGeneration/Sonic-Surge-2)**  
 Tube-Tech SMC2B  
 Tube-Tech CL1B  
 LA-2A  
 Sonnox Oxford Inflator (Waveshaping)
 
-**[Sonic Sweep 2](https://github.com/RaveGeneration/Sonic-Sweep-2):**  
+**[Sonic Sweep 2](https://github.com/RaveGeneration/Sonic-Sweep-2)**  
 Mackie 8-Bus Mixing Console
 
-**[BDX-909](https://github.com/RaveGeneration/BDX-909):**  
+**[BDX-909](https://github.com/RaveGeneration/BDX-909)**  
 Roland TR-909 Bassdrum
 
-**[Filterbank](https://github.com/RaveGeneration/Filterbank):**  
+**[Filterbank](https://github.com/RaveGeneration/Filterbank)**  
 Sherman Filterbank 2
 
-**[Sonic Dynamics](https://github.com/RaveGeneration/Sonic-Dynamics):**  
+**[Sonic Dynamics](https://github.com/RaveGeneration/Sonic-Dynamics)**  
 Alesis 3630 Compressor (THAT VCA)
 
-**[VA-1000](https://github.com/RaveGeneration/VA-1000):**  
+**[VA-1000](https://github.com/RaveGeneration/VA-1000)**  
 Access Virus TI2 (Hypersaw)  
 Clavia Nordlead 3 (LFO Shapes)  
 Roland JP-8000 (Supersaw & Chorus)  
@@ -87,23 +87,23 @@ Roland Jupiter 8 (Filter and HPF)
 Roland TB-303 (Filter)  
 Moog Ladder Filter
 
-**[OTTX](https://github.com/RaveGeneration/OTTX):**  
+**[OTTX](https://github.com/RaveGeneration/OTTX)**  
 Xfer OTT (Multiband Compressor)  
 Sonnox Oxford Inflator (Waveshaping)
 
-**[S1988](https://github.com/RaveGeneration/S1988):**  
+**[S1988](https://github.com/RaveGeneration/S1988)**  
 AKAI S1000 (Granular Timestretching, Sample Rate, Bit Depth)
 
-**[PE-40](https://github.com/RaveGeneration/PE-40):**  
+**[PE-40](https://github.com/RaveGeneration/PE-40)**  
 Tascam PE-40 Parametric Equalizer
 
-**[Knock](https://github.com/RaveGeneration/Knock):**  
+**[Knock](https://github.com/RaveGeneration/Knock)**  
 Roland TR-909 Bassdrum  
 Mackie 8-Bus Mixing Console  
 BOSS RRV-10 Micro Rack (HG61H20R36F Chip Emulator)
 
-**[Time Modulator](https://github.com/RaveGeneration/Time-Modulator):**  
+**[Time Modulator](https://github.com/RaveGeneration/Time-Modulator)**  
 Marshall Time Modulator Model 5002
 
-**[Trigger Rhythm](https://github.com/RaveGeneration/Trigger-Rhythm):**  
+**[Trigger Rhythm](https://github.com/RaveGeneration/Trigger-Rhythm)**  
 SY-1 Syncussion
