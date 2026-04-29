@@ -6,7 +6,7 @@ _  _, _// /_/ /__ |/ //  __/     / /_/ / /  __/  / / /  __/  /   / /_/ // /_ _  
 /_/ |_| \__,_/ _____/ \___/      \____/  \___//_/ /_/\___//_/    \__,_/ \__/ /_/  \____//_/ /_/
 ```
 ---
-### 🧬 Emulations & Inspirations
+### Emulations & Inspirations
 **[PMC60](https://github.com/RaveGeneration/PMC60)**  
 Lexicon PCM60 (CMU Microcode Emulator)
 
